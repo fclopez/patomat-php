@@ -110,7 +110,7 @@
                             <a href="Productos.php"><i class="fa fa-edit fa-fw"></i>Productos</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-wrench fa-fw"></i> UI Elements<span class="fa arrow"></span></a>
+                            <a href="#"><i class="fa fa-wrench fa-fw"></i>Facturas</a>
 
                         </li>
                     </ul>
