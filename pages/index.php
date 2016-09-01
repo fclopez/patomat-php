@@ -32,7 +32,7 @@
         <!-- Navigation -->
         <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
             <div class="navbar-header">
-                <a class="navbar-brand" href="index.php">Tienda Patomar</a>
+                <a class="navbar-brand" href="index.php">Tienda Patomar S.A.S</a>
             </div>
             <!-- /.navbar-header -->
 
@@ -65,7 +65,7 @@
         <div id="page-wrapper">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="page-header">Pagina Principal</h1>
+                    <h1 class="page-header">Gestion de ventas Patomar S.A.S</h1>
                 </div>
                 <!-- /.col-lg-12 -->
             </div>

@@ -135,7 +135,7 @@
                             echo '<td>'. $row['telefono'] . '</td>';
                             echo '<td width=200>';
                             echo ' ';
-                            echo '<a class="btn btn-success" href="Actualizarcliente.php?id='.$row['id_cliente'].'">Actualizar</a>';
+                            echo '<a class="btn btn-success" href="ActualizarCliente.php?id='.$row['id_cliente'].'">Actualizar</a>';
                             echo ' ';
                             echo '<a class="btn btn-danger" href="BorrarCliente.php?id='.$row['id_cliente'].'">Borrar</a>';
                             
